@@ -557,7 +557,11 @@ a.text-primary:hover {
 }
 .navigation .navbar-nav .nav-link.active{
   color: #fb5c42;
-  text-decoration: underline;
+}
+.navigation .navbar-nav .nav-link-disabled{
+  pointer-events: none;
+  opacity:0.5;
+  transition:500ms;
 }
 
 .navigation .navbar-nav .nav-link:hover {
