@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2aedd45.css",
+    "main.js": "/static/js/main.77810f87.js",
+    "static/media/FYKHA.png": "/static/media/FYKHA.a137b20827d07992312a.png",
+    "static/media/FYKHA.jpg": "/static/media/FYKHA.014e463eb65aa5738c2c.jpg",
+    "index.html": "/index.html",
+    "main.b2aedd45.css.map": "/static/css/main.b2aedd45.css.map",
+    "main.77810f87.js.map": "/static/js/main.77810f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2aedd45.css",
+    "static/js/main.77810f87.js"
+  ]
+}
